@@ -12,7 +12,7 @@ import android.widget.EditText;
 public class EditItemActivity extends ActionBarActivity {
 
     public static final String EDIT_ITEM_NAME = "edit_item_name";
-    EditText editItemView;
+    private EditText editItemView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
