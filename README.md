@@ -16,3 +16,4 @@ Spent some time to learn how to push code to github and record GIFs
 
 Walkthrough of all user stories:
 
+https://github.com/YlinSF/todo/blob/master/demo.gif
